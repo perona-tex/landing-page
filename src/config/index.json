@@ -45,39 +45,39 @@
     "items": [
       {
         "id": 1,
-        "name": "Cloud migration",
-        "description": "Efficiently migrate your data and applications to the cloud with our expert guidance and support.",
-        "imageUrl": "assets/images/cloud-migration.jpg"
+        "name": "Cloud and Digital",
+        "description": "Efficiently migrate your data and applications to the cloud with our expert guidance and support. Optimize your cloud architecture and data ingestion.",
+        "imageUrl": "assets/images/cloud.png"
       },
       {
         "id": 2,
-        "name": "AI integration",
-        "description": "Integrate powerful AI capabilities into your systems for enhanced productivity and decision-making.",
-        "imageUrl": "assets/images/ai-integration.jpg"
+        "name": "Data Insight Analysis",
+        "description": "Le data analytics services transform complex data into actionable insights, empowering organizations to make data-driven decisions that propel business growth.",
+        "imageUrl": "assets/images/data.png"
       },
       {
         "id": 3,
-        "name": "Cybersecurity solutions",
-        "description": "Protect your business from cyber threats with our comprehensive cybersecurity solutions.",
-        "imageUrl": "assets/images/cybersecurity-solutions.jpeg"
+        "name": "Software",
+        "description": "Developing custom software and applications designed to optimize workflow, enhance productivity, and solve complex business challenges. We leverage the latest technologies to deliver scalable and efficient solutions tailored to each client's specific needs",
+        "imageUrl": "assets/images/software.png"
       },
       {
         "id": 4,
-        "name": "Cloud optimization",
-        "description": "Optimize your cloud infrastructure for superior performance and cost-efficiency.",
-        "imageUrl": "assets/images/cloud-optimization.png"
+        "name": "Customer Engagement",
+        "description": "We design and implement software tools that enhance customer interaction and satisfaction, helping businesses build stronger relationships and loyalty.",
+        "imageUrl": "assets/images/customer.png"
       },
       {
         "id": 5,
-        "name": "Data analytics consulting",
-        "description": "Leverage the power of data with our expert consulting services for data analytics.",
-        "imageUrl": "assets/images/data-analytics-consulting.jpg"
+        "name": "Operational Improvement",
+        "description": "Refining business operations, reducing costs, and enhancing efficiency through innovative software and system improvements.",
+        "imageUrl": "assets/images/operational.png"
       },
       {
         "id": 6,
-        "name": "IT infrastructure management",
-        "description": "Efficiently manage and maintain your IT infrastructure for seamless operations and scalability.",
-        "imageUrl": "assets/images/it-infrastructure-management.jpg"
+        "name": "Enterprise Search",
+        "description": "We offer advanced enterprise search solutions that allow organizations to access and manage information quickly and effectively, improving knowledge management and decision-making processes.",
+        "imageUrl": "assets/images/search.png"
       }
     ]
   },

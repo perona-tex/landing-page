@@ -37,25 +37,12 @@ const Services = () => {
                   height={300} // or your preferred fixed height
                   className="rounded-t-lg" // if you want rounded corners
                 />
-                <div className="p-8 text-4xl font-bold text-center border-b-4">
+                <div className="p-4 text-4xl font-bold text-center border-b-4">
                   {service.name}
                 </div>
                 <p className="px-4 py-4 text-lg text-center text-gray-600">
                   {service.description}
                 </p>
-              </div>
-              <div className="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6">
-                <div className="w-full pt-6 text-xl text-gray-600 font-bold text-center">
-                  {/* You can add link or any additional details here */}
-                  <a
-                    href={`/services/${service.name
-                      .toLowerCase()
-                      .replace(/\s+/g, '-')}`}
-                    className="text-red-500 hover:underline"
-                  >
-                    Learn more &gt;
-                  </a>
-                </div>
               </div>
             </div>
           ))}
