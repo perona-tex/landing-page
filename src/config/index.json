@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/Peronatex-red.png"
   },
   "navigation": [
     {
@@ -27,30 +27,78 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Tech & AI Consulting",
+    "subtitle": "Empowering business with advanced technology solution",
+    "description": "We specialize in leveraging cutting-edge AI technologies and data-driven insights to enhance business efficiency and scalability. Our expert team is dedicated to optimizing your operations, streamlining processes, and driving strategic growth through customized tech solutions. We empower businesses to achieve operational excellence and maximize ROI by providing innovative, AI-driven solutions tailored to meet the unique challenges and opportunities of your industry.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "#product"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:marcho.handoko@peronatex.com?subject=I like react landing page!"
     }
   },
-  "product": {
-    "title": "React landing page 2021",
+  "services": {
+    "title": "Services",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "id": 1,
+        "name": "Cloud migration",
+        "description": "Efficiently migrate your data and applications to the cloud with our expert guidance and support.",
+        "imageUrl": "assets/images/cloud-migration.jpg"
+      },
+      {
+        "id": 2,
+        "name": "AI integration",
+        "description": "Integrate powerful AI capabilities into your systems for enhanced productivity and decision-making.",
+        "imageUrl": "assets/images/ai-integration.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Cybersecurity solutions",
+        "description": "Protect your business from cyber threats with our comprehensive cybersecurity solutions.",
+        "imageUrl": "assets/images/cybersecurity-solutions.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Cloud optimization",
+        "description": "Optimize your cloud infrastructure for superior performance and cost-efficiency.",
+        "imageUrl": "assets/images/cloud-optimization.png"
+      },
+      {
+        "id": 5,
+        "name": "Data analytics consulting",
+        "description": "Leverage the power of data with our expert consulting services for data analytics.",
+        "imageUrl": "assets/images/data-analytics-consulting.jpg"
+      },
+      {
+        "id": 6,
+        "name": "IT infrastructure management",
+        "description": "Efficiently manage and maintain your IT infrastructure for seamless operations and scalability.",
+        "imageUrl": "assets/images/it-infrastructure-management.jpg"
+      }
+    ]
+  },
+
+  "product": {
+    "title": "Do you feel like this?",
+    "items": [
+      {
+        "title": "Stuggle?",
+        "Question": "Feeling Stuck? Have you ever sensed that your business is just treading water, unable to move forward and grow?",
+        "Question2": "Overwhelmed by Manual Tasks? Are you still handling everything manually, from customer emails to order management, and everything in between?",
+        "Question3": "Desire for Improvement but Daunted by Change? Do you often find yourself recognizing the potential for greater efficiency but feeling overwhelmed by the idea of overhauling your existing processes?",
+        "Question4": "Need Better Data Insights? Are you struggling to make sense of all the data you collect, missing out on key insights that could drive your business decisions?",
+        "Question5": "Overwhelmed by IT Maintenance? Does the thought of constantly having to update and maintain your IT systems take time away from focusing on your core business activities?",
+        "Question6": "Looking for Scalable Solutions? As your business grows, are you finding it difficult to find technology solutions that grow with you, rather than holding you back?",
+        "Question7": "Frustrated with Slow Technology? Is outdated technology slowing down your operations and making it difficult to respond quickly to customer needs or market changes?",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Make it easy!",
+        "description": "That's where we step in. At Peronatex Consulting, we understand these challenges because we help businesses like yours every day. Let's have a conversation about how we can help streamline your operations with the right technological tools and strategies. We offer a free consultation to begin addressing your IT concerns, allowing you to focus on what matters most—growing your business and satisfying your customers.",
         "img": "/assets/images/product2.jpg"
       }
     ]
