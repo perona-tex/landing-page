@@ -6,8 +6,8 @@
     "build": "next build",
     "start": "next start",
     "build-stats": "cross-env ANALYZE=true npm run build",
-    "export": "next export",
-    "build-prod": "run-s clean build export",
+    "export": "next export",  // Keep this if you need to manually export sometimes
+    "build-prod": "run-s clean build",  // Removed 'export' from this line
     "clean": "rimraf .next out",
     "lint": "next lint",
     "build-types": "tsc --noEmit --pretty",
